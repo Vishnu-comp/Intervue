@@ -77,6 +77,22 @@ For Frontend:
 
 ## Screenshots
 
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/3237aa36-8bd7-4093-9b7e-d0e420b9338a" />
+
+<img width="1897" height="961" alt="image" src="https://github.com/user-attachments/assets/aba3c424-5934-4498-b33d-2f93c8e8e485" />
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/5fb80f4e-fcff-47c7-8a1d-3921508d6591" />
+
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/a71b1f06-9dfd-4aae-872c-132decc944d3" />
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/5c6a2100-2cd1-4c63-af2a-7a80042b5645" />
+
+<img width="1896" height="967" alt="image" src="https://github.com/user-attachments/assets/7ff70b07-c69d-4f9d-8a37-aa8bdc544abe" />
+
+
+
+
+
 
 
 
